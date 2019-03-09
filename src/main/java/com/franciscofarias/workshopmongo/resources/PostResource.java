@@ -14,8 +14,6 @@ import com.franciscofarias.workshopmongo.domain.Post;
 import com.franciscofarias.workshopmongo.resources.util.URL;
 import com.franciscofarias.workshopmongo.services.PostService;
 
-import ch.qos.logback.classic.html.UrlCssBuilder;
-
 @RestController
 @RequestMapping(value="/posts")
 public class PostResource {
