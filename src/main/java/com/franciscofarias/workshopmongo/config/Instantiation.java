@@ -12,7 +12,6 @@ import com.franciscofarias.workshopmongo.domain.Post;
 import com.franciscofarias.workshopmongo.domain.User;
 import com.franciscofarias.workshopmongo.dto.AuthorDTO;
 import com.franciscofarias.workshopmongo.dto.CommentDTO;
-import com.franciscofarias.workshopmongo.dto.UserDTO;
 import com.franciscofarias.workshopmongo.repository.PostRepository;
 import com.franciscofarias.workshopmongo.repository.UserRepository;
 
